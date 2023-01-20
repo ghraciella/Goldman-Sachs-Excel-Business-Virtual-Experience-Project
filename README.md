@@ -70,7 +70,7 @@ The focus of this virtual experience was to:
 
 <p><h2 align="center"><font color="red"> Visualization </font></h2>
 
-For last task, I used Excel charts to provide insights for financial years 2022 to 2024 on the cupcake volume, revenue forecast for all products (cupcakes, icecream and drinks), cash forecast, debt forecast. 
+For last task, I used Excel charts to provide insights for financial years 2020 to 2024 on the cupcake volume, revenue forecast for all products (cupcakes, icecream and drinks), cash forecast, debt forecast. 
 
 The 4 different types of charts created were the:
 
